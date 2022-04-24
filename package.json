@@ -1,0 +1,25 @@
+{
+  "name": "ES6-in-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis-Torres-Chuquilin/ES6-in-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis-Torres-Chuquilin/ES6-in-node/issues"
+  },
+  "homepage": "https://github.com/Luis-Torres-Chuquilin/ES6-in-node#readme",
+  "dependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
